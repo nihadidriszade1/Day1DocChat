@@ -63,5 +63,3 @@ The app features a custom CSS theme defined in `app.py`, providing:
 ## 📄 License
 This project is open-source and available under the MIT License.
 
----
-*Developed with ❤️ for the community.*
